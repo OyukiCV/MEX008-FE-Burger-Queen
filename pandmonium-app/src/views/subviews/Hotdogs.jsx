@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Hotdogs from '../../components/generalMenu/menus/hotDogs/hotDogs';
 import Toolbar from '../../components/sidebar/toolbar/Toolbar';
 

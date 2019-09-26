@@ -10,6 +10,7 @@ import MenuComponent from '../views/MenuView';
 //Food
 import Hamburgers from '../views/subviews/Hamburgers';
 import Pizzas from '../views/subviews/Pizzas';
+// import Hotdogs from '../views/subviews/Hotdogs';
 import Hotdogs from '../views/subviews/Hotdogs';
 import Salads from '../views/subviews/Salads';
 import Drinks from '../views/subviews/Drinks';
