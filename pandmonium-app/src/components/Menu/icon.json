@@ -1,0 +1,36 @@
+[
+    
+        {
+            "id": "burger",
+            "icon": "./assets/img/hamburger.png",
+            "route": "/burgers",
+            "component": "prueba"
+        },
+        {
+            "id": "hotdog",
+            "icon": "./assets/img/jocho.png",
+            "route": "/hotdogs",
+            "component": "prueba2"
+        },
+        {
+            "id": "pizzas",
+            "icon": "./assets/img/pizza.png",
+            "route": "/pizzas"
+        },
+        {
+            "id" : "salad",
+            "icon":"./assets/img/salad.png",
+            "route": "/salads"
+        },
+        {
+            "id": "dessert",
+            "icon":"./assets/img/postre.png",
+            "route": "/desserts"
+        },
+        {
+            "id": "drinks",
+            "icon":"./assets/img/bebida.png",
+            "route": "/drinks"
+        }
+        
+]

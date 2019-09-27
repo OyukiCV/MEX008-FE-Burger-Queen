@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+}
+
+.container-food{
+    margin: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cuadro {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin: 1rem;
+  padding: 1rem;
+  width: 5rem;
+  height:5rem;
+  text-align:center;
+  box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.2);
+
+}
+
+.iconFood{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.nameFood{
+    font-family: 'Reem Kufi', sans-serif;
+}
