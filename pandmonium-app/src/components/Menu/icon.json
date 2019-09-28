@@ -1,34 +1,34 @@
 [
     
         {
-            "id": "burger",
+            "id": "Hamburguesas",
             "icon": "/assets/img/hamburger.png",
             "route": "/burgers",
             "component": "prueba"
         },
         {
-            "id": "hotdog",
+            "id": "Hotdogs",
             "icon": "/assets/img/jocho.png",
             "route": "/hotdogs",
             "component": "prueba2"
         },
         {
-            "id": "pizzas",
+            "id": "Pizzas",
             "icon": "/assets/img/pizza.png",
             "route": "/pizzas"
         },
         {
-            "id" : "salad",
+            "id" : "Ensaladas",
             "icon":"/assets/img/salad.png",
             "route": "/salads"
         },
         {
-            "id": "dessert",
+            "id": "Postres",
             "icon":"/assets/img/postre.png",
             "route": "/desserts"
         },
         {
-            "id": "drinks",
+            "id": "Bebidas",
             "icon":"/assets/img/bebida.png",
             "route": "/drinks"
         }

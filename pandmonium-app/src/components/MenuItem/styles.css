@@ -12,6 +12,7 @@
 .cuadro {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   background-color: #ffffff;
   margin: 1rem;
   padding: 1rem;
@@ -23,8 +24,10 @@
 }
 
 .iconFood{
+    display: flex;
+    padding-bottom: 0.3rem;
     margin: 0 auto;
-    width: 80%;
+    width: 60%;
 }
 
 .nameFood{
