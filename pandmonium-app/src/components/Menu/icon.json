@@ -20,12 +20,12 @@
         {
             "id" : "ensaladas",
             "icon":"/assets/img/salad.png",
-            "route": "/salads"
+            "route": "/ensaladas"
         },
         {
             "id": "postres",
             "icon":"/assets/img/postre.png",
-            "route": "/desserts"
+            "route": "/postres"
         },
         {
             "id": "sodas",

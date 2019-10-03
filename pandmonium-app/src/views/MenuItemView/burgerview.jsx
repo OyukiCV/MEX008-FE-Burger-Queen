@@ -1,27 +1,27 @@
 import React, {Component} from 'react';
 import IconMenu from '../../components/Menu/icon.json';
+import DataMenu from '../../components/Menu/data.json';
+import Burger from '../../components/Food/burger';
 import Sidebar from '../../components/sidebar/Sidebar';
-import Menu from '../../components/Menu/index';
-import '../TableSelectorView/Style.css';
 
-class MenuView extends Component {
+class BurgerView extends Component {
     state = {
         icon : IconMenu,
-
+        data : DataMenu
     }
     render(){
         return(
             <section>
                 <Sidebar/>
-                <h1 className="title">Menu</h1>
+                <h1 className='title'></h1>
                 <main className="container">
                     <div className="container-food">
-                        <Menu icons={this.state.icon}/>
+                        <Burger icons={this.state.icon} name={this.state.data} />
                     </div>
                 </main>
             </section>
-        );
+        )
     }
 }
 
-export default MenuView;
+export default BurgerView;
