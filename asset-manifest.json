@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/MEX008-FE-Burger-Queen/static/css/main.7a886a47.chunk.css",
-    "main.js": "/MEX008-FE-Burger-Queen/static/js/main.f06a8051.chunk.js",
-    "main.js.map": "/MEX008-FE-Burger-Queen/static/js/main.f06a8051.chunk.js.map",
+    "main.css": "/MEX008-FE-Burger-Queen/static/css/main.6d8a6f5d.chunk.css",
+    "main.js": "/MEX008-FE-Burger-Queen/static/js/main.b509a48f.chunk.js",
+    "main.js.map": "/MEX008-FE-Burger-Queen/static/js/main.b509a48f.chunk.js.map",
     "runtime~main.js": "/MEX008-FE-Burger-Queen/static/js/runtime~main.c891d290.js",
     "runtime~main.js.map": "/MEX008-FE-Burger-Queen/static/js/runtime~main.c891d290.js.map",
-    "static/js/2.27aa2e9f.chunk.js": "/MEX008-FE-Burger-Queen/static/js/2.27aa2e9f.chunk.js",
-    "static/js/2.27aa2e9f.chunk.js.map": "/MEX008-FE-Burger-Queen/static/js/2.27aa2e9f.chunk.js.map",
+    "static/js/2.9b3c8427.chunk.js": "/MEX008-FE-Burger-Queen/static/js/2.9b3c8427.chunk.js",
+    "static/js/2.9b3c8427.chunk.js.map": "/MEX008-FE-Burger-Queen/static/js/2.9b3c8427.chunk.js.map",
     "index.html": "/MEX008-FE-Burger-Queen/index.html",
-    "precache-manifest.0f3de2738cb651806d9afbfc7145788e.js": "/MEX008-FE-Burger-Queen/precache-manifest.0f3de2738cb651806d9afbfc7145788e.js",
+    "precache-manifest.560ed7b532c3373920c606a50d340f7a.js": "/MEX008-FE-Burger-Queen/precache-manifest.560ed7b532c3373920c606a50d340f7a.js",
     "service-worker.js": "/MEX008-FE-Burger-Queen/service-worker.js",
-    "static/css/main.7a886a47.chunk.css.map": "/MEX008-FE-Burger-Queen/static/css/main.7a886a47.chunk.css.map",
+    "static/css/main.6d8a6f5d.chunk.css.map": "/MEX008-FE-Burger-Queen/static/css/main.6d8a6f5d.chunk.css.map",
+    "static/media/style.css": "/MEX008-FE-Burger-Queen/static/media/error404.e0415177.png",
     "static/media/jocho.png": "/MEX008-FE-Burger-Queen/static/media/jocho.13531f5b.png",
-    "static/media/logo.png": "/MEX008-FE-Burger-Queen/static/media/logo.ba91bfda.png"
+    "static/media/logo.png": "/MEX008-FE-Burger-Queen/static/media/logo.ba91bfda.png",
+    "static/media/pizza.png": "/MEX008-FE-Burger-Queen/static/media/pizza.77f4c266.png"
   }
 }
