@@ -38,12 +38,9 @@ class Orders extends Component{
                 <tr> <th>{localStorage.getItem('vegatina')} </th></tr>
                 <tr> <th>{localStorage.getItem('hellgirl')} </th></tr>
                 <tr> <th>{localStorage.getItem('pan')} </th></tr>
-                <tr> <th>{localStorage.getItem('mazapan')} </th></tr>
-                <tr> <th>{localStorage.getItem('fresa')} </th></tr>
-                <tr> <th>{localStorage.getItem('chocomenta')} </th></tr>
-                <tr> <th>{localStorage.getItem('piñacoco')} </th></tr>
-                <tr> <th>{localStorage.getItem('maracuya')} </th></tr>
-                <tr> <th>{localStorage.getItem('mango')} </th></tr>
+                <tr> <th>{localStorage.getItem('malteada')} </th></tr>
+                <tr> <th>{localStorage.getItem('soda')} </th></tr>
+                
                  
              </table>
 

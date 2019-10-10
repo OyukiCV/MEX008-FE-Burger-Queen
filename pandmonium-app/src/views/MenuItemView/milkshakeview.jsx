@@ -30,7 +30,7 @@ class CustomMilkshake extends Component {
                             name="check"
                             id="mazapan"
                             type="radio"
-                            value="Mazapan"
+                            value="Malteada Mazapan"
                             onChange={this.handleChecket}/>    
                     </div>
                     <div>
@@ -40,7 +40,7 @@ class CustomMilkshake extends Component {
                             name="check"
                             id="fresa"
                             type="radio"
-                            value="Fresa"
+                            value="Malteada Fresa"
                             onChange={this.handleChecket}/>    
                     </div>
                     <div>
@@ -49,7 +49,7 @@ class CustomMilkshake extends Component {
                              name="check"
                              id="chocomenta"
                              type="radio"
-                             value="Chocomenta"
+                             value="Malteada Chocomenta"
                              onChange={this.handleChecket}/>
                     </div>
                     

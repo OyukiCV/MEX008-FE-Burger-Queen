@@ -29,7 +29,7 @@ class CustomSodas extends Component {
                                 name = "check"
                                 id = "piña-coco"
                                 type = "radio"
-                                value = "Piña coco"
+                                value = "Soda Piña coco"
                                 onChange = {this.handleChecket}/>  
                         </div>
                         <div>
@@ -38,7 +38,7 @@ class CustomSodas extends Component {
                                 name = "check"
                                 id = "maracuya"
                                 type = "radio"
-                                value = "Maracuya"
+                                value = "Soda Maracuya"
                                 onChange = {this.handleChecket}/>
 
                         </div>
@@ -48,7 +48,7 @@ class CustomSodas extends Component {
                                 name = "check"
                                 id = "mango"
                                 type = "radio"
-                                value = "Mango"
+                                value = "Soda Mango"
                                 onChange = {this.handleChecket}/>
                         </div>
 
