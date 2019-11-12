@@ -1,36 +1,46 @@
 [
     
         {
-            "id": "burger",
-            "icon": "./assets/img/hamburger.png",
+            "id": "hamburguesas",
+            "icon": "/assets/img/hamburger.png",
             "route": "/burgers",
             "component": "prueba"
         },
         {
-            "id": "hotdog",
-            "icon": "./assets/img/jocho.png",
+            "id": "hotdogs",
+            "icon": "/assets/img/jocho.png",
             "route": "/hotdogs",
             "component": "prueba2"
         },
         {
             "id": "pizzas",
-            "icon": "./assets/img/pizza.png",
+            "icon": "/assets/img/pizza.png",
             "route": "/pizzas"
         },
         {
-            "id" : "salad",
-            "icon":"./assets/img/salad.png",
-            "route": "/salads"
+            "id" : "ensaladas",
+            "icon":"/assets/img/salad.png",
+            "route": "/ensaladas"
         },
         {
-            "id": "dessert",
-            "icon":"./assets/img/postre.png",
-            "route": "/desserts"
+            "id": "postres",
+            "icon":"/assets/img/postre.png",
+            "route": "/postres"
         },
         {
-            "id": "drinks",
-            "icon":"./assets/img/bebida.png",
-            "route": "/drinks"
+            "id": "sodas",
+            "icon": "/assets/img/bebida.png",
+            "route": "/soda"
+        },
+        {
+            "id": "malteadas",
+            "icon": "/assets/img/malteada.png",
+            "route": "/malteadas"
+        },
+        {
+            "id": "extra",
+            "icon": "/assets/img/extras.png",
+            "route": "/extras"
         }
         
 ]

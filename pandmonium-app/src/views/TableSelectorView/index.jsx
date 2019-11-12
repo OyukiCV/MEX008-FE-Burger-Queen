@@ -8,11 +8,16 @@ import './Style.css';
 class selectTables extends React.Component {
 render (){
     return (
-    <div>
+    <section>
         <Sidebar />
-        <p className="title">Mesas</p>
+        <div className='container-white'>
+        <div  className='tables-container'>
+        <h1 className="title">Mesas</h1>
+        <p>Selecciona la mesa que estás atendiendo</p>
+        </div>
         <AllTables />
-    </div>
+        </div>
+    </section>
     );
 
 }

@@ -1,0 +1,149 @@
+.customContainerPrincipal,
+.customContainerPrincipalMalicia
+{
+    display: flex;
+    width: 300px;
+    height: 80vh;
+    flex-direction: column;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 4rem auto;
+}
+.price-custom {
+    display: flex;
+    width: 300px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 1rem;     
+    font-weight: bold;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#ffffff;
+    margin: 1rem;
+    padding: 1rem;
+    width: 4rem;
+    height: 4rem;
+    text-align:center;
+    box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.2);
+  
+  }
+
+  .option-price {
+    text-align: center;
+  }
+
+  .ingredientsOptions {
+      display: flex;
+      flex-direction: column; 
+      font-family: 'Reem kufi';
+      font-size: 17px;  
+      box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.08);
+      border-radius: 10px;
+      padding:2rem;
+      margin-bottom: 2rem;
+      margin-top: 1rem;
+    }
+
+  .buttonOrder,
+  .buttonOrderMalicia
+   {
+        margin: 0% auto;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+  }
+
+  input#classic, input#combo {
+    transform: scale(2.5);
+    margin:0.5rem auto;
+    display: flex;
+    justify-content: flex-end;
+  
+  }
+
+ #chica, #mediana, #grande {
+  transform: scale(2);
+  margin:0.5rem auto;
+    display: flex;
+    justify-content: flex-end;
+ }
+
+  .extra-container {
+    display: flex;
+  }
+
+  .extra-container label {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .extra-container input {
+    transform: scale(2);
+    margin-top: 1rem;
+  }
+
+  button {
+      background-color:  #2C98F0;
+      width: 143px;
+      height: 42px;
+      border: none;
+      color: white;  
+      font-family: 'Reem Kufi', sans-serif;   
+      
+  }
+  .cuadro {
+    display: flex;
+    color:black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 1rem;
+    padding: 1rem;
+    width: 7rem;
+    height:7rem;
+    text-align:center;
+    font-family: 'Reem Kufi', sans-serif;
+    box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.2);
+  
+  }
+  
+  .iconFood{
+      display: flex;
+      padding-bottom: 0.3rem;
+      margin: 0 auto;
+      width: 100%;
+  }
+
+.figure-custom{
+    display: flex;
+  color:black;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 1rem;
+  padding: 1rem;
+  width: 7rem;
+  height:7rem;
+  text-align:center;
+  font-family: 'Reem Kufi', sans-serif;
+  box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.2);
+  border-radius: 10%;
+}
+
+
+
+
+

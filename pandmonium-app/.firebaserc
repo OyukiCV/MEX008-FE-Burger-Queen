@@ -1,10 +1,5 @@
 {
   "projects": {
-    "default": "pan-d-monium-app",
-<<<<<<< HEAD
-    "pan-d-monium-app": "pan-d-monium-app"
-=======
-    "pandmonium": "pan-d-monium-app"
->>>>>>> e43f6e8feadce1d3d72e03f9d551df87f2679a3e
+    "default": "pan-d-monium-app"
   }
 }

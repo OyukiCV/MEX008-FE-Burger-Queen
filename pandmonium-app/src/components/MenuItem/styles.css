@@ -11,20 +11,26 @@
 
 .cuadro {
   display: flex;
+  color:black;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: #ffffff;
   margin: 1rem;
   padding: 1rem;
-  width: 5rem;
-  height:5rem;
+  width: 7rem;
+  height:7rem;
   text-align:center;
+  font-family: 'Reem Kufi', sans-serif;
   box-shadow: 0px 2px 8px 7px rgba(77, 74, 74, 0.2);
+  border-radius: 10%;
 
 }
 
 .iconFood{
+    display: flex;
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
 }
 
 .nameFood{

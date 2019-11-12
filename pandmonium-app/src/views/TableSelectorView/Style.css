@@ -1,6 +1,28 @@
 .title {
   text-align: center;
-  margin: 2rem;
+  padding: .5rem 0 0 0;
+  margin: 2rem 0 0 0;
   font-weight: 600;
   font-size: 2rem;
+}
+
+.tables-container{
+  background-color: white;
+  width: 85vw;
+  height: 25vh;
+  font-family: 'Reem kufi';
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container-white{
+  background-color: white;
+  width: 90vw;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+  border-radius: 10px;
+  color: #6C6C6C;
+
 }

@@ -1,0 +1,13 @@
+.carrito{
+  height: 2rem;
+  display: flex;
+}
+
+.btn-carrito{
+  display: flex;
+  width: 100vw;
+  justify-content: flex-end;
+  padding: 0 2rem;
+  background-color: transparent;
+}
+

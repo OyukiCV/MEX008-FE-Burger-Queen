@@ -22,7 +22,7 @@ function AllTables(){
             <TableList number = "2"/>
        </div>
        <div className = "tablesOrder">
-            <TableList number ="1"/>
+            <TableList number ="5"/>
        </div>
        <div className = "tablesOrder">
             <TableList number = "11"/>

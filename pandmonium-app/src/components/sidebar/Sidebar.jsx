@@ -12,9 +12,9 @@ const SideDrawer = props => {
   return (
     <nav className={drawerClasses.join('')}>
        <ul>
-         <li><Link to={'/'}>Mesas</Link></li>
+         <li><Link to={'/mesas'}>Mesas</Link></li>
          <li><Link to={'/HistorialDePago'}>Historial de Pago</Link></li>
-         <li><Link to={'/Extras'}>Extras</Link></li>
+         <li><Link to={'/carrito'}>Ordenes</Link></li>
        </ul>
      </nav>
     );
